@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://iphone15-fv.netlify.app" target="_blank">
+    <a href="https://notes-fv.netlify.app" target="_blank">
       <img src="public/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Notes App - React / TypeScript</h3>
