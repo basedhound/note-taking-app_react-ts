@@ -46,7 +46,7 @@
 
 👉 **Responsive Design**: Ensures the application is fully functional and optimized for various devices and screen sizes.
 
-👉 **Advanced CRUD Operations**: Provides Create, Read, Update, and Delete functionalities for managing notes seamlessly.
+👉 **CRUD Operations**: Provides Create, Read, Update, and Delete functionalities for managing notes seamlessly.
 
 👉 **Search Functionality**: Enables users to search for specific notes by title, content, or tags.
 
