@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://notes-fv.netlify.app" target="_blank">
-      <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Notes App - React / TypeScript</h3>
 </div>
@@ -21,17 +21,17 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Bootstrap** is a front-end framework celebrated for its extensive suite of pre-styled components and responsive grid system. It simplifies the development of mobile-first websites and applications, offering developers flexibility and cross-browser compatibility.
+- [**Bootstrap**](https://getbootstrap.com/docs/4.1/getting-started/introduction/) is a front-end framework celebrated for its extensive suite of pre-styled components and responsive grid system. It simplifies the development of mobile-first websites and applications, offering developers flexibility and cross-browser compatibility.
 
-- **Vite** is a modern frontend build tool known for fast ES Module imports, efficient bundling, and quick development server startup times. It supports frameworks like Vue.js and React, optimizing workflow and performance compared to traditional bundlers.
+- [**Vite**](https://vitejs.dev/guide/) is a modern frontend build tool known for fast ES Module imports, efficient bundling, and quick development server startup times. It supports frameworks like Vue.js and React, optimizing workflow and performance compared to traditional bundlers.
 
-- **Markdown** is a lightweight markup language that simplifies formatting plain text into structured content. Widely used for writing documentation, README files, and blog posts, Markdown offers a straightforward syntax for styling text with headers, lists, links, and more. Its simplicity and compatibility across various platforms make it a preferred choice for creating well-formatted content with ease.
+- [**Markdown**](https://www.markdownguide.org/getting-started/) is a lightweight markup language that simplifies formatting plain text into structured content. Widely used for writing documentation, README files, and blog posts, Markdown offers a straightforward syntax for styling text with headers, lists, links, and more. Its simplicity and compatibility across various platforms make it a preferred choice for creating well-formatted content with ease.
 
-- **UUID** (Universally Unique Identifier) is a standard for generating unique identifiers in software development. These identifiers are highly unlikely to be duplicated across different systems, ensuring uniqueness. Represented as a 36-character hexadecimal string, UUIDs are crucial for maintaining data integrity in distributed databases, session management, and messaging systems without requiring centralized coordination.
+- [**UUID**](https://www.npmjs.com/package/uuid) (Universally Unique Identifier) is a standard for generating unique identifiers in software development. These identifiers are highly unlikely to be duplicated across different systems, ensuring uniqueness. Represented as a 36-character hexadecimal string, UUIDs are crucial for maintaining data integrity in distributed databases, session management, and messaging systems without requiring centralized coordination.
 
 
 ## <br/> <a name="features">📝 Features</a>
